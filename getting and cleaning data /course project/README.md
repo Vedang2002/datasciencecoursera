@@ -1,4 +1,5 @@
-R Getting and Cleaning Data Course Project - Johns Hopkins University
+*R Getting and Cleaning Data Course Project - Johns Hopkins University*
+
 The current repository maintains the solution submitting for the Peer-graded Assignment: Getting and Cleaning Data Course Project.
 
 The Readme.md which is the file currently reading.
