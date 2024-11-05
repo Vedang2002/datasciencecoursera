@@ -1,0 +1,1 @@
+This project is part of the week 2 assignment of the course “Develpoing Data Products” of Data Science specialization with R from Johns Hopkins University. The aim of this project is to create a webpage that contains a map created with leaflet package.
